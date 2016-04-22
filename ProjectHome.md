@@ -1,0 +1,1 @@
+dotPortal is a PHP Portal Engine. It means that it aims to create an engine that is available and suitable for creation of PHP based portals, content management systems, and other softwares. It's built with flexibility, stability and business-class usage in mind.
